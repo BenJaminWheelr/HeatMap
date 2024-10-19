@@ -1,0 +1,15 @@
+#map {
+    height: 100%;
+  }
+
+#buttonDiv, h1 {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5px;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
